@@ -1,4 +1,4 @@
-# Quantum Inception Architecture (QIA) via TF2.8
+# Quantum Inception Architecture (QIA) via TF 2.8
 ### Update (2023/09/21)
 - We are enhancing the quality of the code to improve its visibility. This will make it easier to understand how QIA works in the future.
 
