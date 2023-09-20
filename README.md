@@ -8,7 +8,7 @@
 
 # Run Experiments
 ```c
-python qcnn.py --dataset fmnist
+python qcnn.py --batch_size 32 --dataset fmnist --epochs 30
 ```
 
 # Experimental Results
