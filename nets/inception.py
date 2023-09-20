@@ -1,6 +1,6 @@
 # Author: Sung-Wook Park
 # Date: 16 Jun 2022
-# Last updated: 11 Jul 2022
+# Last updated: 18 Sep 2023
 # --- Ad hoc ---
 
 import tensorflow as tf
